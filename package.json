@@ -6,7 +6,7 @@
 	"private": true,
 	"license": "",
 	"type": "module",
-	"homepage": "https://github.com/aleksandr2810/repairman.git",
+	"homepage": "https://github.com/aleksandr2810/repairman",
 	"scripts": {
 		"start": "npm i --legacy-peer-deps",
 		"dev": "gulp && webpack serve --progress -c config/webpack.dev.js",
